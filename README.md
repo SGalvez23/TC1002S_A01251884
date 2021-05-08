@@ -9,4 +9,7 @@ Sebastian Galvez Trujillo
 A01251884
 
 ## LISTADO DE EJERCICIOS
-* Lista de los ejercicios contenidos en el repositorio
+Actividad Estadisticas Descriptivas (dentro de la carpeta Child Smokers)
+Actividad Mapa de Calor y Boxplots (dentro de la carpeta Child Smokers)
+Actividad Patrones con K-Means (dentro de la carpeta K-Means)
+
